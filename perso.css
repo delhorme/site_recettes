@@ -111,7 +111,7 @@ div.colonne1 {
     display: inline-block;
 }
 
-div.ingredients p {
+div.Perso p {
     text-align: center;
     font-size: 14px;
     border: 1px solid lightgray;
@@ -120,7 +120,7 @@ div.ingredients p {
     margin-bottom: 0;
 }
 
-table.preparation p.numero {
+table.pro p.numero {
     background-color: #6C829D;
     color: white;
     width: 25px;
@@ -134,17 +134,17 @@ table.preparation p.numero {
     margin: 0;
 }
 
-table.preparation td {
+table.pro td {
     vertical-align: top;
 }
 
-table.preparation td.preparation_etape {
+table.pro td.pro_etape {
     font-size: 14px;
     padding-left: 10px;
     padding-bottom: 10px;
 }
 
-table.preparation tr {
+table.pro tr {
     height: 40px;
 }
 
