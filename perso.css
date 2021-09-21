@@ -89,7 +89,8 @@ table.info th {
 img.info {
     display: block;
     max-height: 400px;
-    object-fit: cover;
+    /*object-fit: cover;*/
+    background-size: cover;
     min-height: 200px;
     background-color: lightgray;
 }
@@ -147,6 +148,13 @@ table.pro td.pro_etape {
 table.pro tr {
     height: 40px;
 }
+.city {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
 
 /* Styles pour ordinateur */
 @media only screen and (min-width: 768px) {
